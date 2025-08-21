@@ -1,5 +1,6 @@
 # SQL_ExamQuestion3 MEMBERS: Mario Ojo and Gaby Norris
 
+Apologies Tsungai, we really struggled overall with the setup of the foreign keys and it took up most of our time as we could not test other things.
 
 Question 4 Queries:
 
